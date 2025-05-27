@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>events</title>
+        <link rel="icon" href="img/date.png">
+    </head>
+    <body bgcolor="pink">
+        <center>
+            <h1>Upcoming Events📅</h1>
+            <p>Don't miss any of your important events. Stay updated</p>
+        </center>
+        <hr>
+        <p>Our Photo Gallery offers a vibrant collection of images that capture the essence and energy of the event. Each photograph tells a unique story, showcasing candid moments, interactions, and the overall atmosphere. Whether you're revisiting cherished memories or experiencing the event for the first time, the gallery provides a visual journey through the highlights and behind-the-scenes moments. Explore the collection to relive the excitement and connect with the shared experiences.
+        </p>
+    <center>
+        <img src="img/event1.png">
+        <h1>Photo gallery</h1>
+        <h2>Free Entry | Free Food | Pets are not allowed</h2>
+        <p>Our Photo Gallery is a vibrant tapestry of moments captured during , offering a visual journey through the highlights and behind-the-scenes of the event. Each photograph serves as a testament to the energy, creativity, and connections that defined the occasion. From candid interactions to meticulously curated setups, the gallery showcases the multifaceted nature .</p>
+    </center>
+    <center>
+        <img src="img/event2.png">
+        <h1>
+            <a href="https://www.myntra.com/">Fashion store</a>
+        </h1>
+        <h2>Free Entry | Free Food | Pets are not allowed</h2>
+        <p>Our Photo Gallery is a vibrant tapestry of moments captured during , offering a visual journey through the highlights and behind-the-scenes of the event. Each photograph serves as a testament to the energy, creativity, and connections that defined the occasion. From candid interactions to meticulously curated setups, the gallery showcases the multifaceted nature .</p>
+
+    </center>
+    <hr>
+    <center>
+        <h1>Contact</h1>
+        <h2>+91 3467590846 | eventcollab@gmail.com</h2>
+        <p> 90,main road,chennai,611109 </p>
+    </center>
+    </body>
+</html>
